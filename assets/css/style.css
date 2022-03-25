@@ -2709,10 +2709,11 @@ img {
   padding: 10px;
   background-color: #041c25;
   color: rgb(255, 255, 255);
+  font-size: 25px;
 }
 .academic-wrapper ul{
   padding: 15px;
-  font-size: 25px;
+  font-size: 20px;
 }
 .academic-wrapper ul li{
   margin-top: 15px;
