@@ -2142,7 +2142,10 @@ img {
     margin-top: 5px;
     padding: 5px 15px;
   }
-
+  #mu-slider .mu-slider-single .mu-slider-content h2 {
+    font-size: 20px;
+    line-height: 1.5;
+  }
   #mu-slider .mu-slider-single .mu-slider-content p {
     font-size: 16px;
     line-height: 1.5;
@@ -2426,7 +2429,7 @@ img {
   }
 
   #mu-slider .mu-slider-single .mu-slider-content h2 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 35px;
   }
 
@@ -2436,7 +2439,7 @@ img {
   }
 
   #mu-slider .mu-slider-single .mu-slider-content p {
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
   }
 
